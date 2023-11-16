@@ -10,7 +10,7 @@
     "express": "4.17.1",
     "fs": "0.0.1-security",
     "request": "2.88.0",
-    "sharp": "0.23.1",
+    "sharp": "0.32.6",
     "smartcrop-sharp": "2.0.3"
   },
   "devDependencies": {
